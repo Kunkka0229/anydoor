@@ -1,5 +1,5 @@
 {
-    "name": "anydoor",
+    "name": "kunkka-anydoor",
     "version": "0.1.1",
     "description": "tiny nodejs web server",
     "main": "src/app.js",
